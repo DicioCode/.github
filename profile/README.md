@@ -11,4 +11,4 @@ O **Projeto DicioCode** tem como objetivo criar uma aplicação inovadora que au
 - 🧑‍💻 **Interface Amigável**: Desfrute de uma interface intuitiva e fácil de usar, projetada especialmente para iniciantes.
 - 🎓 **Recursos Educacionais**: Acesse recursos adicionais, como tutoriais e dicas, para aprimorar ainda mais seu aprendizado.
 
-Junte-se a nós nessa jornada de aprendizado e torne-se um programador mais confiante e preparado com o Projeto ProLingo! 🚀🌟
+Junte-se a nós nessa jornada de aprendizado e torne-se um programador mais confiante e preparado com o Projeto DicioCode! 🚀🌟
