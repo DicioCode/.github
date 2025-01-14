@@ -1,8 +1,8 @@
-# Projeto ProLingo
+# Projeto DicioCode
 
 ## 📚 Propósito
 
-O **Projeto ProLingo** tem como objetivo criar uma aplicação inovadora que auxilie novatos na programação, funcionando como um dicionário de inglês voltado para estudos. Nossa missão é facilitar o aprendizado de termos técnicos, proporcionando uma experiência amigável e eficiente para quem está começando no mundo da programação.
+O **Projeto DicioCode** tem como objetivo criar uma aplicação inovadora que auxilie novatos na programação, funcionando como um dicionário de inglês voltado para estudos. Nossa missão é facilitar o aprendizado de termos técnicos, proporcionando uma experiência amigável e eficiente para quem está começando no mundo da programação.
 
 ## 🚀 Funcionalidades Principais
 
